@@ -1,0 +1,414 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+			<boardgame objectid="162886">
+   <yearpublished>2017</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>13</age>
+
+   	   <name  sortindex="1">Duchové ostrova</name>
+   	   <name primary="true" sortindex="1">Spirit Island</name>
+   	   <name  sortindex="1">Szellemek Szigete</name>
+   	   <name  sortindex="1">Острів духів</name>
+   	   <name  sortindex="1">Остров духов</name>
+   	   <name  sortindex="1">เกาะภูติพิทักษ์</name>
+   	   <name  sortindex="1">スピリット・アイランド</name>
+   	   <name  sortindex="1">灵迹岛</name>
+   	   <name  sortindex="1">정령섬</name>
+   
+   <description>In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.
+
+Spirit Island is a complex and thematic co-operative game about defending your island home from colonizing Invaders. Players are different spirits of the land, each with its own unique elemental powers. Every turn, players simultaneously choose which of their power cards to play, paying energy to do so. Using combinations of power cards that match a spirit's elemental affinities can grant free bonus effects. Faster powers take effect immediately, before the Invaders spread and ravage, but other magics are slower, requiring forethought and planning to use effectively. In the Spirit phase, spirits gain energy, and choose how / whether to Grow: to reclaim used power cards, to seek new power, or to spread their presence into new areas of the island.
+
+The Invaders expand across the island map in a semi-predictable fashion. Each turn they explore into some lands (portions of the island); the next turn, they build in those lands, forming towns and cities. The turn after that, they ravage there, bringing blight to the land and attacking any native islanders present. The islanders fight back against the Invaders when attacked, and lend the spirits some other aid, but may not always do so exactly as you'd hoped. Some Powers work through the islanders, helping them, for example, to drive out the Invaders or clean the land of blight.
+
+The game escalates as it progresses: spirits spread their presence to new parts of the island and seek out new and more potent powers, while the Invaders step up their colonization efforts. Each turn represents 1-3 years of alternate history. At game start, winning requires destroying every last explorer, town and city on the board - but as you frighten the Invaders more and more, victory becomes easier: they'll run away even if explorers or even towns and cities remain. Defeat comes if any spirit is destroyed, if the island is overrun by blight, or if the Invader deck is depleted before achieving victory.
+
+The game includes different adversaries to fight against (eg., a Swedish Mining Colony, or a Remote British Colony). Each changes play in different ways, and offers a different path of difficulty boosts to keep the game challenging as you gain skill.
+
+</description>
+
+   	   <thumbnail>https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__small/img/aUlIih2_R7P8IYKeyNl2heLQbu8=/fit-in/200x150/filters:strip_icc()/pic7013651.jpg</thumbnail>
+	   <image>https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__original/img/9uLd9C3XAvInLCLhAoXqKVk56zs=/0x0/filters:format(jpeg)/pic7013651.jpg</image>
+   
+   	   		   <boardgamepublisher objectid="17543">Greater Than Games, LLC</boardgamepublisher>
+      	   		   <cardset objectid="93897"></cardset>
+      	      	   		   <boardgamepodcastepisode objectid="353886">#122: Multiple Paths to Victory</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="185051">#24: The HYPE Episode! Gen Con 2016 Preview; Rocky Road a la Mode preview; Among the Stars on tap</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="223807">#4: Spirit Island and Rulebooks</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="224723">#5: Year in Review 2017</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="234283">#8: Just Deserts</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="265307">#87: Cryptid six-pack &amp;amp; on tap, Terraforming Mars Digital, Orbis, Carcassonne: The Catapult</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="275973">012 – Co-Op Mechanics Part 2 – Fighting the Alpha Player Problem, Creating Team Decisions and Adding Tension</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="281827">017 – Ending Games using Fatigue &amp;amp; Exhaustion Mechanics</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="288361">022 – The one thing you need to know as a Game Designer</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="317123">033 – Spirit Island and Asymmetric Game Design with R. Eric Reuss</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="163974">1P 088 - Red November and puzzle games</boardgamepodcastepisode>
+      	   		   <boardgamehonor objectid="61808">2017 Board Game Quest Awards Best Coop Game Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="61825">2017 Board Game Quest Awards Best Coop Game Winner</boardgamehonor>
+      	   		   <boardgamehonor objectid="61814">2017 Board Game Quest Awards Game of the Year Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="46988">2017 Cardboard Republic Striker Laurel Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="47451">2017 Golden Geek Best Board Game Artwork &amp; Presentation Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="47466">2017 Golden Geek Best Cooperative Game Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="47471">2017 Golden Geek Best Solo Board Game Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="47472">2017 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="47473">2017 Golden Geek Best Thematic Board Game Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="47432">2017 Golden Geek Board Game of the Year Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="47482">2017 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="56568">2019 As d&#039;Or - Jeu de l&#039;Année Expert Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="57428">2019 Spiel der Spiele Hit für Experten Recommended</boardgamehonor>
+      	   		   <boardgamehonor objectid="72327">2021 Gra Roku Advanced Game of the Year Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="80202">2021 Japan Boardgame Prize Voters&#039; Selection Nominee</boardgamehonor>
+      	   		   <boardgamehonor objectid="75325">2021 Scelto dai Goblin Winner</boardgamehonor>
+      	   		   <boardgamehonor objectid="106623">2024 Nederlandse Spellenprijs Best Expert Game Nominee</boardgamehonor>
+      	   		   <boardgamepodcastepisode objectid="222760">74 – The Family Gamers Podcast – Super PAX U Super Show</boardgamepodcastepisode>
+      	   		   <boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+      	   		   <boardgamepublisher objectid="28062">Ace Studios</boardgamepublisher>
+      	   		   <boardgamemechanic objectid="2839">Action Retrieval</boardgamemechanic>
+      	   		   <boardgamepodcastepisode objectid="434349">Akin To Something Like Connect 4</boardgamepodcastepisode>
+      	   		   <boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+      	   		   <boardgamepublisher objectid="36401">Arrakis Games</boardgamepublisher>
+      	   		   <boardgamemechanic objectid="2903">Automatic Resource Growth</boardgamemechanic>
+      	   		   <boardgameartist objectid="19565">Jason Behnke</boardgameartist>
+      	   		   <boardgamewriter objectid="50245">Paul Bender</boardgamewriter>
+      	   		   <boardgameartist objectid="88873">Loïc Berger</boardgameartist>
+      	   		   <boardgamepodcastepisode objectid="223088">BGP 017: 2017 Holiday Buying Guide</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="223701">BGP 018: Top 10 Board Games of 2017</boardgamepodcastepisode>
+      	   		   <boardgameartist objectid="11462">Loïc Billiau</boardgameartist>
+      	   		   <boardgameartist objectid="86024">Kat G Birmelin</boardgameartist>
+      	   		   <boardgameeditor objectid="138431">Brian Blankstein</boardgameeditor>
+      	   		   <boardgamepodcastepisode objectid="292268">Board Game Kiki Episode 5: Art</boardgamepodcastepisode>
+      	   		   <boardgamepublisher objectid="25074">BoardM Factory</boardgamepublisher>
+      	   		   <boardgamepodcastepisode objectid="162571">Boards Alive Monster Mash-up - Episode 2</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="543693">Boxfart! Episode 14</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="544305">Boxfart! Episode 15</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="553297">Boxfart! Episode 21</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="556525">Boxfart! Episode 25</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="556850">Boxfart! Episode 26</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="541011">Boxfart! Episode 3</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="541008">Boxfart! Episode 4</boardgamepodcastepisode>
+      	   		   <boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+      	   		   <boardgamefamily objectid="77906">Category: Dized Tutorial</boardgamefamily>
+      	   		   <boardgameversion objectid="509832">Chinese edition</boardgameversion>
+      	      	   		   <boardgamefamily objectid="66553">Components: Control Boards</boardgamefamily>
+      	   		   <boardgamefamily objectid="64960">Components: Map (Continental / National scale)</boardgamefamily>
+      	   		   <boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+      	   		   <boardgamefamily objectid="62884">Components: Official Music Soundtrack</boardgamefamily>
+      	   		   <boardgamefamily objectid="68769">Components: Wooden pieces &amp; boards</boardgamefamily>
+      	   		   <boardgamemechanic objectid="2023">Cooperative Game</boardgamemechanic>
+      	   		   <boardgameartist objectid="97260">Cari Corene</boardgameartist>
+      	   		   <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+      	   		   <boardgameversion objectid="601920">Czech edition</boardgameversion>
+      	   		   <boardgamemechanic objectid="2664">Deck, Bag, and Pool Building</boardgamemechanic>
+      	   		   <boardgamefamily objectid="104952">Digital Implementations: Apple App Store</boardgamefamily>
+      	   		   <boardgamefamily objectid="78432">Digital Implementations: Google Play</boardgamefamily>
+      	   		   <boardgamefamily objectid="77349">Digital Implementations: Steam</boardgamefamily>
+      	   		   <boardgamepodcastepisode objectid="214921">Dukes of Dice - Ep. 160 - Isle Drink to That</boardgamepodcastepisode>
+      	   		   <boardgameartist objectid="73895">Lucas Durham</boardgameartist>
+      	   		   <boardgameversion objectid="675156">Dutch edition</boardgameversion>
+      	      	   		   <boardgamepodcastepisode objectid="351220">E9 | Boardgames | Co-ops, Cool Kids Compete Collaboratively</boardgamepodcastepisode>
+      	   		   <boardgamepublisher objectid="39390">Engames</boardgamepublisher>
+      	   		   <boardgameversion objectid="497500">English edition, eighth printing</boardgameversion>
+      	   		   <boardgameversion objectid="582330">English edition, eleventh printing</boardgameversion>
+      	   		   <boardgameversion objectid="785262">English edition, fifteenth printing</boardgameversion>
+      	   		   <boardgameversion objectid="428048">English edition, fifth printing</boardgameversion>
+      	   		   <boardgameversion objectid="246745">English edition, first printing</boardgameversion>
+      	   		   <boardgameversion objectid="708227">English edition, fourteenth printing</boardgameversion>
+      	   		   <boardgameversion objectid="408659">English edition, fourth printing</boardgameversion>
+      	   		   <boardgameversion objectid="526893">English edition, ninth printing</boardgameversion>
+      	   		   <boardgameversion objectid="387123">English edition, second printing</boardgameversion>
+      	   		   <boardgameversion objectid="733193">English edition, seventeenth printing</boardgameversion>
+      	   		   <boardgameversion objectid="453197">English edition, seventh printing</boardgameversion>
+      	   		   <boardgameversion objectid="441965">English edition, sixth printing</boardgameversion>
+      	   		   <boardgameversion objectid="548059">English edition, tenth printing</boardgameversion>
+      	   		   <boardgameversion objectid="393555">English edition, third printing</boardgameversion>
+      	   		   <boardgameversion objectid="710939">English edition, thirteenth printing</boardgameversion>
+      	      	   		   <boardgamecategory objectid="1084">Environmental</boardgamecategory>
+      	   		   <boardgamepodcastepisode objectid="301287">Ep 13- Top 3 Con Games &amp;amp; TTS Con Recap</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="223452">Ep. 78 – Pulling Plugs at the Penny Arcade</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="453945">Ep.124 Spirit Island, Action Selection, What Spirit?</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="418635">Episode 1: Ankh: Gods of Egypt</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="459247">Episode 10: Mindclash of the titans</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="444091">Episode 10: Top 5 Cooperative Games</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="459243">Episode 13: I get by with a little help from my friends</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="239874">Episode 14: Spirit Island with Ian Zang</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="228050">Episode 148 Joe Sallen&#039;s Top Games and Disappointments of 2017</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="373666">Episode 15: Spirit Island with R. Eric Reuss</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="409258">Episode 164 - Top 10 Deckbuilders</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="325218">Episode 17 - Solitaire Games</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="162887">Episode 18: The One About New Bedford</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="224381">Episode 19 - You Can Probably Bribe Me With Food</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="164166">Episode 20: TatterCon 2015!</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="455367">Episode 226: Brazil-Imperial</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="224748">Episode 24: Azul, Twilight Imperium: Fourth Edition, Favelas, Galaxy Trucker, Spirit Island</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="463362">Episode 26: Top 30 Countdown, Part I (30-21)</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="271005">Episode 32: Cooperation</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="470974">Episode 32: Stranded on a Desert Island-Games</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="162178">Episode 35 - Interview with Greater Than Games Christopher Badell</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="218672">Episode 38 - Ethics in Game Media</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="210487">Episode 4 - Games with Controversial Historical Topics</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="500286">Episode 49: Games Into Horror Movies</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="270939">Episode 5 - Cooperative Games</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="338327">Episode 5 – Maracaibo</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="371413">Episode 51 - Special Guest: Phil Walker-Harding, Lowlands, Campy Creatures, Spicy, Onitama</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="472665">Episode 52.2 - Expansions, Part 2</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="370785">Episode 54: Tawantinsuyu, The Princes of Florence, Spirit Island, Miyabi - Top 5 Games With Stupid Names</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="375142">Episode 56: Slide Quest, Drop It!, Freedom: The Underground Railroad</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="212604">Episode 6 - Are the Cards Against Humanity?</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="256999">Episode 61 - Splish Splash</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="281554">Episode 73 - Why So Serious?</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="211666">Episode 80 - Dice Forge &amp;amp; Nuddy Con 2017</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="124627">Episode 80-- Gen Con Previews of Greater Than Games and Stronghold Games</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="212510">Episode 81 - Spirit Island</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="125138">Episode 81-- Gen Con 2014 Top 11 to Try and Top 11 to Buy with special gues W. Eric Martin from BGG News</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="213522">Episode 82 - PAXtravaganza 2017</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="127464">Episode 83-- Live from GEN CON Part 2-- from the show floor</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="235762">Episode 96 - Downforce Four Year Anniversary</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="367469">Episode 97: Spirit Island, CTRL, Horrified, ShipShape, Merlin</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="450870">Expansion Pack: UK Games Expo 2022</boardgamepodcastepisode>
+      	   		   <boardgamepublisher objectid="50454">Fabled Nexus</boardgamepublisher>
+      	   		   <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+      	      	   		   <boardgamepodcastepisode objectid="351280">Folge 30 - Ghosts on the Shelf</boardgamepodcastepisode>
+      	   		   <boardgamepublisher objectid="33710">Fox in the Box</boardgamepublisher>
+      	   		   <boardgameversion objectid="392223">French edition, first printing</boardgameversion>
+      	   		   <boardgameversion objectid="629701">French edition, fourth printing</boardgameversion>
+      	   		   <boardgameversion objectid="488453">French edition, second printing</boardgameversion>
+      	   		   <boardgameversion objectid="626989">French edition, third printing</boardgameversion>
+      	      	   		   <boardgamefamily objectid="46174">Game: Spirit Island</boardgamefamily>
+      	   		   <boardgamepublisher objectid="48438">Games7Days</boardgamepublisher>
+      	   		   <boardgamepublisher objectid="8820">Gém Klub Kft.</boardgamepublisher>
+      	   		   <boardgamepodcastepisode objectid="157911">GenCon 2015 - Greater Than Games &amp;amp; Dice Hate Me</boardgamepodcastepisode>
+      	   		   <boardgameversion objectid="484931">German edition, &#039;Spiele Hit&#039; printing</boardgameversion>
+      	   		   <boardgameversion objectid="422684">German edition, first printing</boardgameversion>
+      	   		   <boardgameversion objectid="451080">German edition, second printing</boardgameversion>
+      	      	      	      	      	   		   <boardgamepublisher objectid="4785">Ghenos Games</boardgamepublisher>
+      	      	      	   		   <boardgameartist objectid="85924">Rocky Hammer</boardgameartist>
+      	   		   <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+      	   		   <boardgamegraphicdesigner objectid="101959">SaRae Henderson</boardgamegraphicdesigner>
+      	   		   <boardgamepublisher objectid="18852">Hobby World</boardgamepublisher>
+      	   		   <boardgameintegration objectid="367498">Horizons of Spirit Island</boardgameintegration>
+      	   		   <boardgameversion objectid="449656">Hungarian edition</boardgameversion>
+      	   		   <boardgamepublisher objectid="5380">Intrafin Games</boardgamepublisher>
+      	   		   <boardgamefamily objectid="79690">Islands: Fictional</boardgamefamily>
+      	   		   <boardgameversion objectid="777841">Italian edition 2024</boardgameversion>
+      	   		   <boardgameversion objectid="489681">Italian first edition</boardgameversion>
+      	   		   <boardgameversion objectid="629311">Italian second edition</boardgameversion>
+      	   		   <boardgameversion objectid="554549">Japanese edition</boardgameversion>
+      	   		   <boardgameversion objectid="476655">Korean edition</boardgameversion>
+      	   		   <boardgameartist objectid="85925">Sydni Kruger</boardgameartist>
+      	   		   <boardgamepublisher objectid="5812">Lacerta</boardgamepublisher>
+      	   		   <boardgameversion objectid="469209">Lacerta Polish edition</boardgameversion>
+      	   		   <boardgamepodcastepisode objectid="242476">Limited Play Time: Beetlejuice Island</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="241700">Limited Play Time: Top Ten Games of ALL TIME</boardgamepodcastepisode>
+      	      	   		   <boardgamegraphicdesigner objectid="50881">Darrell Louder</boardgamegraphicdesigner>
+      	   		   <boardgamepodcastepisode objectid="219474">LPC Interviews - R. Eric Reuss - Spirit Island</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="422151">Maths With Bats</boardgamepodcastepisode>
+      	   		   <boardgamefamily objectid="59705">Misc: LongPack Games</boardgamefamily>
+      	   		   <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+      	   		   <boardgamecategory objectid="1082">Mythology</boardgamecategory>
+      	   		   <boardgameartist objectid="60615">Nolan Nasser</boardgameartist>
+      	      	   		   <boardgamepublisher objectid="30552">One Moment Games</boardgamepublisher>
+      	      	   		   <boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+      	   		   <boardgamefamily objectid="113768">Players: Games with expansions that change player count</boardgamefamily>
+      	   		   <boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
+      	   		   <boardgamepublisher objectid="2726">Portal Games</boardgamepublisher>
+      	   		   <boardgameversion objectid="752000">Portal Games Polish edition</boardgameversion>
+      	   		   <boardgameversion objectid="459051">Portuguese edition</boardgameversion>
+      	   		   <boardgamepodcastepisode objectid="334719">PSVR, Brikks, and Spirit Island - Ep97</boardgamepodcastepisode>
+      	   		   <boardgameartist objectid="81097">Jorge Ramos</boardgameartist>
+      	   		   <boardgamesculptor objectid="81097">Jorge Ramos</boardgamesculptor>
+      	   		   <boardgameartist objectid="50243">Adam Rebottaro</boardgameartist>
+      	      	   		   <boardgamedesigner objectid="16615">R. Eric Reuss</boardgamedesigner>
+      	   		   <boardgamepodcastepisode objectid="233237">Review Episode 08 - Spirit Island</boardgamepodcastepisode>
+      	   		   <boardgamepublisher objectid="21053">REXhry</boardgamepublisher>
+      	   		   <boardgameartist objectid="85926">Moro Rogers</boardgameartist>
+      	   		   <boardgameversion objectid="448987">Russian edition</boardgameversion>
+      	   		   <boardgamepodcastepisode objectid="454054">Show, Not Tell with Jason Perez</boardgamepodcastepisode>
+      	   		   <boardgamepublisher objectid="33998">Siam Board Games</boardgamepublisher>
+      	   		   <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+      	   		   <boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
+      	   		   <boardgameversion objectid="446044">Spanish first edition</boardgameversion>
+      	   		   <boardgameversion objectid="762068">Spanish fourth edition</boardgameversion>
+      	   		   <boardgameversion objectid="761834">Spanish third edition</boardgameversion>
+      	   		   <videogamebg objectid="261226">Spirit Island</videogamebg>
+      	   		   <boardgamepodcastepisode objectid="533410">Spirit Island</boardgamepodcastepisode>
+      	      	      	      	   		   <boardgamepodcastepisode objectid="418903">Spirit Island - Imposing Depths of Indomitable Board Game</boardgamepodcastepisode>
+      	      	      	      	      	      	      	      	      	      	      	      	   		   <boardgamepodcastepisode objectid="229062">Spirit Island, Illmat, Top 50-41 Games of All Time - Boards &amp;amp; Swords #96</boardgamepodcastepisode>
+      	      	      	   		   <cardset objectid="93901">Spirit Island: Apocrypha Spirit – Spreading Rot Renews the Earth</cardset>
+      	   		   <boardgameaccessory objectid="273036">Spirit Island: Basically Wooden Organiser</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="401141">Spirit Island: Bodenloser Schlamm der Sümpfe</boardgameexpansion>
+      	   		   <boardgameexpansion objectid="193065">Spirit Island: Branch &amp; Claw</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="434378">Spirit Island: Branch &amp; Claw – Polandgames Token Set</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="372965">Spirit Island: Branch and Claw – Premium Foil Spirit Panels</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="314281">Spirit Island: Broken Token Game Crate</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="314280">Spirit Island: Broken Token Organizer</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="245664">Spirit Island: Champions of the Dahan Token Pack</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="356604">Spirit Island: Deluxe Invader Board</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="309476">Spirit Island: e-Raptor Insert</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="271287">Spirit Island: Errata Pack</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="244827">Spirit Island: Expansion Playmat</boardgameexpansion>
+      	   		   <boardgameexpansion objectid="356510">Spirit Island: Feather &amp; Flame</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="372971">Spirit Island: Feather and Flame – Premium Foil Spirit Panels</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="346618">Spirit Island: Finder unsichtbarer Wege</boardgameexpansion>
+      	   		   <cardset objectid="100004">Spirit Island: Foil Spirit Panels</cardset>
+      	   		   <boardgameaccessory objectid="268243">Spirit Island: Folded Space Insert</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="326361">Spirit Island: Folded Space Insert (Second edition)</boardgameaccessory>
+      	   		   <cardset objectid="101284">Spirit Island: Horizons of Spirit Island Unique Power Cards</cardset>
+      	   		   <boardgameaccessory objectid="439515">Spirit Island: InMyBox Insert</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="271950">Spirit Island: Insert Here Insert</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="262722">Spirit Island: Jagged Earth</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="434379">Spirit Island: Jagged Earth – Polandgames Token Set</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="372968">Spirit Island: Jagged Earth – Premium Foil Spirit Panels</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="367225">Spirit Island: Laserox Crate</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="344501">Spirit Island: Laserox Spirit Expansion Organizer</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="344500">Spirit Island: Laserox Spirit Organizer</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="399366">Spirit Island: Moedas &amp; Co. Metal Coins and Token Set</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="378849">Spirit Island: Nation Schottland, Szenarien und Kartenerweiterung Promo</boardgameexpansion>
+      	   		   <boardgameexpansion objectid="365137">Spirit Island: Nature Incarnate</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="372975">Spirit Island: Nature Incarnate – Premium Foil Spirit Panels</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="434377">Spirit Island: Polandgames Token Set</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="372964">Spirit Island: Premium Foil Spirit Panels</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="271283">Spirit Island: Premium Token Pack</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="374891">Spirit Island: Premium Token Pack 2</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="232394">Spirit Island: Promo Pack 1</boardgameexpansion>
+      	   		   <boardgameexpansion objectid="263778">Spirit Island: Promo Pack 2</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="401879">Spirit Island: Schatzkiste</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="292800">Spirit Island: Seele des Flächenbrands</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="382563">Spirit Island: Sloyca Insert</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="401144">Spirit Island: Sonnenheller Wirbelwind</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="289436">Spirit Island: Spirit Energy Tokens (32 tokens)</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="300708">Spirit Island: Spirit Guide</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="368827">Spirit Island: Sturzregen durchnässt die Welt</boardgameexpansion>
+      	   		   <boardgameaccessory objectid="348652">Spirit Island: The GiftForge Insert</boardgameaccessory>
+      	   		   <boardgameaccessory objectid="271394">Spirit Island: Tower Rex Organizer</boardgameaccessory>
+      	   		   <boardgameexpansion objectid="275756">Spirit Island: Unter der Insel schlummernde Schlange</boardgameexpansion>
+      	   		   <boardgameexpansion objectid="401139">Spirit Island: Unterirdisch lauernde Reißzähne</boardgameexpansion>
+      	   		   <boardgameexpansion objectid="401140">Spirit Island: Wachende Augen in Bäumen</boardgameexpansion>
+      	   		   <boardgameexpansion objectid="401143">Spirit Island: Zunehmende Hitze in Stein und Sand</boardgameexpansion>
+      	   		   <boardgamepodcastepisode objectid="266102">Spirit Island!</boardgamepodcastepisode>
+      	      	      	   		   <boardgameartist objectid="58547">Graham Sternberg</boardgameartist>
+      	   		   <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+      	   		   <boardgamemechanic objectid="3100">Tags</boardgamemechanic>
+      	   		   <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+      	   		   <boardgameversion objectid="631000">Thai edition</boardgameversion>
+      	      	   		   <boardgamepodcastepisode objectid="270914">The Dice Men Cometh – Episode 240</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="227879">The Game Pit Podcast - Episode 106: 10 x 10 Challenge 2018</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="212900">The Good The Board and Mr. Hamm Goes to Indianapolis: Episode 127 &quot;Gen Con 2017&quot;</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="214739">The Good The Board and The Niches Get Stitches: Episode 133 &quot;Niches&quot;</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="224799">The Good, the Board and the Gross of Episodes: Episode 144 Trent and TC&#039;s Best of 2017</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="232006">The Good, the Board, and the Choo Choo! Episode 154 Andy&#039;s Top Ten Games</boardgamepodcastepisode>
+      	   		   <boardgamefamily objectid="21622">Theme: Colonial</boardgamefamily>
+      	   		   <boardgamefamily objectid="76250">Theme: Environmental Protection / Degradation / Pollution</boardgamefamily>
+      	   		   <boardgamefamily objectid="18319">Theme: Tropical</boardgamefamily>
+      	   		   <boardgamefamily objectid="51732">Theme: Tropical Islands</boardgamefamily>
+      	      	   		   <boardgameeditor objectid="138432">Dylan Thurston</boardgameeditor>
+      	   		   <boardgameartist objectid="47197">Shane Tyree</boardgameartist>
+      	   		   <boardgameversion objectid="701562">Ukrainian edition</boardgameversion>
+      	      	   		   <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+      	   		   <boardgamemechanic objectid="2897">Variable Set-up</boardgamemechanic>
+      	   		   <boardgamedeveloper objectid="59649">Ted Vessenes</boardgamedeveloper>
+      	   		   <boardgameeditor objectid="59649">Ted Vessenes</boardgameeditor>
+      	      	   		   <boardgamepodcastepisode objectid="138368">Vox Republica 076: The Giant PAX East 2015 Recap</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="151204">Vox Republica 088: Con Season Anticipation</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="162499">Vox Republica 099: The Spirit of Spirit Island</boardgamepodcastepisode>
+      	   		   <boardgamepodcastepisode objectid="211689">What Did You Play This Week Podcast Week 140</boardgamepodcastepisode>
+      	      	   		   <boardgameartist objectid="74441">Joshua Wright (I)</boardgameartist>
+      	   		   <boardgameintegration objectid="367498" inbound="true">Horizons of Spirit Island</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2087">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="561" />
+					<result value="Recommended" numvotes="1089" />
+					<result value="Not Recommended" numvotes="121" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1366" />
+					<result value="Recommended" numvotes="551" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="622" />
+					<result value="Recommended" numvotes="991" />
+					<result value="Not Recommended" numvotes="110" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="176" />
+					<result value="Recommended" numvotes="801" />
+					<result value="Not Recommended" numvotes="643" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="147" />
+					<result value="Not Recommended" numvotes="1058" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary>
+
+   <poll name="language_dependence" title="Language Dependence" totalvotes="85">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="61" />
+					<result level="5" value="Unplayable in another language" numvotes="15" />
+				</results>					
+	</poll>
+
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="334">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="25" />
+					<result value="12" numvotes="87" />
+					<result value="14" numvotes="162" />
+					<result value="16" numvotes="50" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+
+   
+
+      <statistics>
+	   <ratings>
+		   <usersrated>61319</usersrated>
+		   <average>8.34053</average>
+		   <bayesaverage>8.14167</bayesaverage>
+
+		   <ranks>
+			   				   				   <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11" bayesaverage="8.14167" />
+				   			   				   				   <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="10" bayesaverage="8.12184" />
+				   			   		   </ranks>
+
+		   <stddev>1.5194</stddev>
+		   <median>0</median>
+		   <owned>94859</owned>
+		   <trading>656</trading>
+		   <wanting>1764</wanting>
+		   <wishing>24855</wishing>
+		   <numcomments>9446</numcomments>
+		   <numweights>3322</numweights>
+		   <averageweight>4.0774</averageweight>
+	   </ratings>
+   </statistics>
+
+
+</boardgame>
+
+</boardgames>
